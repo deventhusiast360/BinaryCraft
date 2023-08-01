@@ -5,7 +5,6 @@ export default function Document() {
     <Html lang="en">
       <Head >
         <link rel='shortcut icon' href='/favicon.ico'/>
-        <title>BinaryCraft</title>
       </Head>
       <body>
         <Main />
